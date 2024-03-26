@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,jest,cypress,selenium,postgres,git,github,githubactions,postman,vscode,idea,vercel,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,jest,cypress,selenium,postgres,git,github,githubactions,postman,docker,vscode,idea,vercel,heroku)](https://skillicons.dev)
