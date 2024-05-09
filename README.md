@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=java,js,spring,react,selenium,cypress,gherkin,maven,gradle,npm,jest,postgres,sklearn,git,github,githubactions,postman,docker,jenkins,vscode,idea,heroku,netlify,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,spring,react,selenium,cypress,gherkin,maven,gradle,npm,jest,postgres,git,github,githubactions,jenkins,postman,docker,vscode,idea,heroku,netlify,vercel)](https://skillicons.dev)
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=mgrybel&theme=transparent&hide_border=true&stroke=transparent" align="top" /> 
