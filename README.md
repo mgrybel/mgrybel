@@ -27,12 +27,10 @@ Here are some ideas to get you started:
 ![Postman](https://img.shields.io/badge/Postman-ee7647?style=for-the-badge&logo=postman&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/-Rest_Assured-0170FE?style=for-the-badge&logo=rest%20assured&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-563D7C?style=for-the-badge&logo=jmeter&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-b8332a?style=for-the-badge&logo=jest&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-f9d14d?style=for-the-badge&logo=juint&logoColor=white)
 ![TestNG](https://img.shields.io/badge/TestNG-092749?style=for-the-badge&logo=testng&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0170FE?style=for-the-badge&logo=github%20actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-db0d0d?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4194e1?style=for-the-badge&logo=docker&logoColor=white)
 
 <p>
