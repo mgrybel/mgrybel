@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Languages and Tools:
+
 ![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-c9b047?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-4075bb?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,10 +34,6 @@ Here are some ideas to get you started:
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0170FE?style=for-the-badge&logo=github%20actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-db0d0d?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-4194e1?style=for-the-badge&logo=docker&logoColor=white)
-
-## Languages and Tools:
-
-[![My Skills](https://skillicons.dev/icons?i=java,js,ts,spring,react,bootstrap,cypress,selenium,gherkin,maven,gradle,jest,postgres,git,github,githubactions,jenkins,postman,docker,vscode,idea)](https://skillicons.dev)
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=mgrybel&theme=transparent&hide_border=true&stroke=transparent" align="top" /> 
