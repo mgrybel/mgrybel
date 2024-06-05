@@ -14,28 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-c9b047?style=for-the-badge&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-4075bb?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-3C873A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-FF4154?style=for-the-badge&logo=playwright&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-593D88?style=for-the-badge&logo=cypress&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-4EA94B?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-ee7647?style=for-the-badge&logo=postman&logoColor=white)
+![REST Assured](https://img.shields.io/badge/-Rest_Assured-0170FE?style=for-the-badge&logo=rest%20assured&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-563D7C?style=for-the-badge&logo=jmeter&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-b8332a?style=for-the-badge&logo=jest&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-f9d14d?style=for-the-badge&logo=juint&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-092749?style=for-the-badge&logo=testng&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0170FE?style=for-the-badge&logo=github%20actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-db0d0d?style=for-the-badge&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-4194e1?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Languages and Tools:
 
