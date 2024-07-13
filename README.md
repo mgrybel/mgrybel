@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ![REST Assured](https://img.shields.io/badge/-Rest_Assured-0170FE?style=for-the-badge&logo=rest%20assured&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ee7647?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/JMeter-563D7C?style=for-the-badge&logo=jmeter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d648a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0170FE?style=for-the-badge&logo=github%20actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-4194e1?style=for-the-badge&logo=docker&logoColor=white)
 
 <p>
   <img src="https://streak-stats.demolab.com/?user=mgrybel&theme=transparent&hide_border=true&stroke=transparent" align="top" /> 
