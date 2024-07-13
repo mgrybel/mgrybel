@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Cucumber](https://img.shields.io/badge/Cucumber-4EA94B?style=for-the-badge&logo=cucumber&logoColor=white)
 ![REST Assured](https://img.shields.io/badge/-Rest_Assured-0170FE?style=for-the-badge&logo=rest%20assured&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-ee7647?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-563D7C?style=for-the-badge&logo=jmeter&logoColor=white)
+![JMeter](https://img.shields.io/badge/JMeter-7d3071?style=for-the-badge&logo=jmeter&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-3d648a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-0170FE?style=for-the-badge&logo=github%20actions&logoColor=white)
