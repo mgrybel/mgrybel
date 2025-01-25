@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,cypress,selenium,django,react,vite,tailwind,postgres,git,github,githubactions,gitlab,jenkins,docker,vscode,pycharm)](https://skillicons.dev)
+
 ## Languages and Tools:
 
 ![Typescript](https://img.shields.io/badge/Typescript-4075bb?style=for-the-badge&logo=typescript&logoColor=white)
