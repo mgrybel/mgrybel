@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,java,cypress,selenium,django,react,vite,tailwind,postgres,git,github,githubactions,gitlab,jenkins,docker,vscode,pycharm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,py,django,react,vite,html,css,tailwind,jest,vitest,cypress,selenium,gherkin,postman,postgres,mysql,sqlite,git,github,githubactions,gitlab,jenkins,docker,vscode,pycharm,discord,ai,regex)](https://skillicons.dev)
 
 ## Languages and Tools:
 
