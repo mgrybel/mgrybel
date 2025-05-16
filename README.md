@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ## Languages and Tools:
 
+![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-4075bb?style=for-the-badge&logo=typescript&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-c9b047?style=for-the-badge&logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-F05032?style=for-the-badge&logo=java&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-FF4154?style=for-the-badge&logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-593D88?style=for-the-badge&logo=cypress&logoColor=white)
